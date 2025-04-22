@@ -1,8 +1,7 @@
-<div align="center"><strong>Next.js 15 Admin Dashboard Template</strong></div>
+<div align="center"><strong>Next.js 15 Admin Dashboard </strong></div>
 <div align="center">Built with the Next.js App Router</div>
 <br />
 <div align="center">
-<a href="https://next-admin-dash.vercel.app/">Demo</a>
 <span> · </span>
 <a href="https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs">Clone & Deploy</a>
 <span>
@@ -10,7 +9,7 @@
 
 ## Overview
 
-This is a starter template using the following stack:
+This is a Page Dashboard using the following stack:
 
 - Framework - [Next.js (App Router)](https://nextjs.org)
 - Language - [TypeScript](https://www.typescriptlang.org)
@@ -22,7 +21,7 @@ This is a starter template using the following stack:
 - Analytics - [Vercel Analytics](https://vercel.com/analytics)
 - Formatting - [Prettier](https://prettier.io)
 
-This template uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
+Uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
 
 ## Getting Started
 
